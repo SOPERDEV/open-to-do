@@ -4,4 +4,4 @@ This is an open source project. This project is MIT Licensed.
 ---
 This project can be used by anyone anytime anywhere to keep track of their day-to-day work.
 
-[Open Project]('https://opentodo.netlify.app/')
+` View Prohect - https://opentodo.netlify.app/`
