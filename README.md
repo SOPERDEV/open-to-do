@@ -1,4 +1,4 @@
-![openToDoLogo](./assets/logo.png) # Open TO DO
+# ![openToDoLogo](./assets/logo.png) Open TO DO
 
 This is an open source project. This project is MIT Licensed. 
 ---
