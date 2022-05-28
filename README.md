@@ -1,3 +1,4 @@
 # Open TO DO
-
-Collaborate in the react-native project.
+---
+This is an open source project. This project is MIT Licensed. 
+---
